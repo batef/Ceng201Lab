@@ -1,3 +1,5 @@
+package PlaylistExercise;
+
 public class Playlist {
     Song tail;
     Song head;
@@ -37,12 +39,12 @@ public class Playlist {
 
     public void showPlaylist() {
         if (head == null) {
-            System.out.println("Playlist is empty");
+            System.out.println("PlaylistExercise.Playlist is empty");
             return;
         }
 
         Song temp = head;
-        System.out.println("Playlist:");
+        System.out.println("PlaylistExercise.Playlist:");
 
         while (temp != null) {
             if (temp == current) {

@@ -1,3 +1,5 @@
+package StackExercise;
+
 public class Node {
     int data;
     Node next;

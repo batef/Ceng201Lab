@@ -1,3 +1,5 @@
+package StackExercise;
+
 public class MyStack {
     Node head;
     Node middle;

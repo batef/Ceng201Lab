@@ -1,3 +1,5 @@
+package StackExercise;
+
 public class TestMyStack {
     public static void main(String[] args) {
 
@@ -22,7 +24,7 @@ public class TestMyStack {
 
         System.out.println("--- 2. POP  ---");
         int popped = stack.pop();
-        System.out.println("Deleted Node (Pop): " + popped);
+        System.out.println("Deleted StackExercise.Node (Pop): " + popped);
         stack.printStack();
 
 

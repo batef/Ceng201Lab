@@ -1,3 +1,5 @@
+package TimeComplexityExercise;
+
 public class GrowthRateCounter {
     public static void main(String[] args) {
         int[] sizes = {10, 50, 100, 200, 400, 500};

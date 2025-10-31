@@ -1,3 +1,5 @@
+package TimeComplexityExercise;
+
 public class TimeComplexity {
     public static void main(String[] args) {
         int n =1024;

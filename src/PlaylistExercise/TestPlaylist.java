@@ -1,3 +1,5 @@
+package PlaylistExercise;
+
 public class TestPlaylist {
     public static void main(String[] args) {
         Playlist playlist = new Playlist();
